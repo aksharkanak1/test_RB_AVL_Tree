@@ -1,0 +1,8 @@
+RB and AVL tree search testing 
+
+Goal : The main goal of this experiment will be to test the 
+speed with which data can be retrived from RB and AVL tree when we 
+have  huge  amount of data . 
+
+The implementation will be in C++ so that we can learn more 
+about this language 
